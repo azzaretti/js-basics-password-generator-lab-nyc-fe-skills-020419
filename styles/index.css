@@ -28,6 +28,9 @@ output {
   background-color: #EEE;
 }
 
+input {
+  width: 300px;
+}
 
 #mocha {
   text-align: left;
